@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Baranbaboli
-- 👀 I’m interested in game developing
-- 🌱 I’m currently studying Computer Engineering in Baskent University, Ankara/TURKEY
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : baranatlihan9@gmail.com
+<center><h2>______________________________________________________________</h2> </center>
+<center><a href="https://github.com/Baranbaboli">  😎  my github page  😎</a><p style = "color:green">Contact: baranatlihan9@gmail.com</p></center>
+<center><h2>______________________________________________________________</h2> </center>
 
 <!---
 Baranbaboli/Baranbaboli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
