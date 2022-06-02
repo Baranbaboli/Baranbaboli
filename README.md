@@ -1,4 +1,7 @@
-<center><a href="baranbaboli.github.io"> 📍 my github.io page 📍 </a><p style = "color:green">Contact: baranatlihan9@gmail.com</p></center>
+
+  <h2> <a href="baranbaboli.github.io"> 📍 my github.io page 📍 </a></h2>
+  <br>
+  Contact: baranatlihan9@gmail.com
 
 
 <!---
