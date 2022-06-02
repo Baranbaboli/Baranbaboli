@@ -1,6 +1,5 @@
-<center><h2>______________________________________________________________</h2> </center>
-<center><a href="https://github.com/Baranbaboli">  😎  my github page  😎</a><p style = "color:green">Contact: baranatlihan9@gmail.com</p></center>
-<center><h2>______________________________________________________________</h2> </center>
+<center><a href="baranbaboli.github.io"> 📍 my github.io page 📍 </a><p style = "color:green">Contact: baranatlihan9@gmail.com</p></center>
+
 
 <!---
 Baranbaboli/Baranbaboli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
